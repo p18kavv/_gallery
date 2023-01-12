@@ -1,6 +1,6 @@
 ---
 author: Konstantina_Kavvadia
-image_url: /images/Scrcpy.png
+image_url: /images/Scrcpy.jpg
 title: Scrcpy
 year: 2017
 caption: Το scrcpy είναι μια δωρεάν και ανοιχτού κώδικα εφαρμογή αντικατοπτρισμού οθόνης που επιτρέπει τον έλεγχο μιας συσκευής Android από επιτραπέζιο υπολογιστή Windows, macOS ή Linux.
